@@ -1,0 +1,21 @@
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ .active {
+     font-weight: 700;
+     border-bottom: 4px solid whitesmoke;
+ }
+ .text-gray {
+     color: gray !important;
+ }
+ body {
+     height: 100vh;
+ }
+ a {
+     margin: 10px;
+     text-decoration: none !important;
+ }
+ a:hover {
+     border-bottom: 4px solid gray;
+ }

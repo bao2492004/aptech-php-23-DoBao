@@ -1,0 +1,10 @@
+ul {
+    list-style: none;
+    -webkit-padding-start: 0;
+            padding-inline-start: 0;
+  }
+  
+  .text-lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }

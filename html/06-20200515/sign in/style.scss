@@ -1,0 +1,58 @@
+.Header {
+    &__Logo {
+        &--purple-theme {
+            background-color: purple;
+        }
+        &--height-width {
+            height: 100px;
+            width: 100px;
+        }
+        &--border {
+            border-radius: 20px;
+        }
+        &--font {
+            font-size: 4.5rem;
+        }
+        &--ml-10 {
+            margin: auto;
+        }
+    }
+    &__Center {
+        max-width: 330px;
+        margin: auto;
+    }
+}
+
+.Content {
+    &__Center {
+        max-width: 330px;
+        margin: auto;
+    }
+    &__Sign--Up--Button {
+        &--green-theme {
+            background-color: green;
+        }
+
+        &--text-white {
+            color: white;
+        }
+
+        &--font-size {
+            font-size: 100px;
+        }
+        
+        &--border-1px-solid {
+            border: 1px solid hotpink;
+        }
+    }
+}
+
+.Footer {
+    &__Center {
+        &--max-width {
+            max-width: 330px;
+            margin: auto;
+        }
+       
+    }
+}
